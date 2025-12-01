@@ -35,10 +35,6 @@ Content Filtering Ready!
 Training Collaborative Filtering Model...
 Collaborative Model Ready!
 
-==============================
- EXAMPLE RECOMMENDATIONS
-==============================
-
 Content-based recommendations for: Toy Story (1995)
 ['Antz (1998)', 'Toy Story 2 (1999)', 'Adventures of Rocky and Bullwinkle, The (2000)', "Emperor's New Groove, The (2000)", 'Monsters, Inc. (2001)']
 
